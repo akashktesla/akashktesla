@@ -1,5 +1,5 @@
 ### HI I'm akash,
-Goal: To create a sentient life as capable as a Human being
+Goal: To create a sentient life as capable as a Human being <br>
 Best way to learn a concept is to make a project based on it.<br>
 project >>>>> competitive codeing :)
 
