@@ -4,5 +4,3 @@ Best way to learn a concept is to make a project based on it.<br>
 project >>>>> competitive coding :)
 
 ![http://i.imgur.com/PVnG2Vg.gif](http://i.imgur.com/PVnG2Vg.gif)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashktesla&theme=dark&layout=compact&hide_border=true) <br><br>
-
